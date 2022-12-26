@@ -10,7 +10,7 @@ I'm [Gabo](https://github.com/gaboDev05)！I'm a software engineer who is passio
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 🎓 &nbsp; I studied Software Engineering at the Technological University of Havana "José Antonio Echeverría".
 - 🌱 &nbsp; Currently Learning JavaScript and React js.
-- 👯 &nbsp; Open for project collaboration. 
+- 🤝🏻 &nbsp; Open for project collaboration. 
 
 <h3>🛠 Tech Stack</h3>
 
